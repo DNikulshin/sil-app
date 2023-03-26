@@ -1,0 +1,46 @@
+[
+  {
+    "name": "_csrf",
+    "value": "6fb3929622960283beb97bd74f9dceae8b86a1ec0ca4d3575094fb92a6cf6111a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22e7x52uSr2LoVCZwbvLgeUqYhAa-6ta-R%22%3B%7D",
+    "domain": "erp.silinet.net",
+    "path": "/",
+    "expires": -1,
+    "size": 171,
+    "httpOnly": true,
+    "secure": false,
+    "session": true,
+    "sameSite": "Lax",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "_identity",
+    "value": "488644246b4e36b24970d995fc0279f949f230756bda7c4a08a6a1d8898af2a6a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A48%3A%22%5B167%2C%22ppOLjKeTxmEfVUDwjr9WIglPjEbwAkkc%22%2C2592000%5D%22%3B%7D",
+    "domain": "erp.silinet.net",
+    "path": "/",
+    "expires": 1681492048.332206,
+    "size": 207,
+    "httpOnly": true,
+    "secure": false,
+    "session": false,
+    "sameSite": "Lax",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "PHPSESSID",
+    "value": "o89l5gskc33nsu8ruib8o6j8u0",
+    "domain": "erp.silinet.net",
+    "path": "/",
+    "expires": -1,
+    "size": 35,
+    "httpOnly": true,
+    "secure": false,
+    "session": true,
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  }
+]

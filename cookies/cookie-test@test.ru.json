@@ -1,0 +1,16 @@
+[
+  {
+    "name": "PHPSESSID",
+    "value": "ij7n6ie3v25sfn1eotp2825f7r",
+    "domain": "erp.silinet.net",
+    "path": "/",
+    "expires": -1,
+    "size": 35,
+    "httpOnly": true,
+    "secure": false,
+    "session": true,
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  }
+]
